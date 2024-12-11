@@ -6,7 +6,7 @@ public class factorialDanielGonzalezFranco {
 
 	public static void main(String[] args) {
 		 Scanner scanner = new Scanner(System.in);
-         //TODO: realizar cambios//
+         //TODO: realizar cambios //
 		 // Pedir al usuario que ingrese un número
 		 System.out.print("Introduce un número para calcular su factorial: ");
 		 int number = scanner.nextInt();
